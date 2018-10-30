@@ -1,0 +1,1 @@
+trigger RHX_Task on Task (after insert, after update, after delete, after undelete) {}

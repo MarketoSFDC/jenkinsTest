@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>35.0</apiVersion>
+    <packageVersions>
+        <majorNumber>5</majorNumber>
+        <minorNumber>16</minorNumber>
+        <namespace>JBCXM</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>8</majorNumber>
+        <minorNumber>26</minorNumber>
+        <namespace>n2de</namespace>
+    </packageVersions>
+    <status>Active</status>
+</ApexClass>
